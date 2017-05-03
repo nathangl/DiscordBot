@@ -99,6 +99,12 @@ namespace DoomBot
                     await e.Channel.SendMessage(message);
                 });
 
+            commands.CreateCommand("doggo")
+                .Do(async (e) =>
+                {
+                    await e.Channel.SendMessage("https://www.youtube.com/watch?v=t_Pt7z6qq5k");
+                });
+
             commands.CreateCommand("airhorn")
                 .Do(async (e) =>
                 {

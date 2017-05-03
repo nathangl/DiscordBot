@@ -62,3 +62,6 @@ C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.exe.manifest
 C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.application
 C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.exe
 C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.pdb
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\DiscordBot\DoomBot\bin\Debug\DoomBot.exe.config
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\DiscordBot\DoomBot\obj\Debug\DoomBot.exe
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\DiscordBot\DoomBot\obj\Debug\DoomBot.pdb
