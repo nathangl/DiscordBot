@@ -30,3 +30,35 @@ C:\Users\Nathan\documents\visual studio 2015\Projects\DoomBot\DoomBot\bin\Debug\
 C:\Users\Nathan\documents\visual studio 2015\Projects\DoomBot\DoomBot\bin\Debug\pics\p7.gif
 C:\Users\Nathan\documents\visual studio 2015\Projects\DoomBot\DoomBot\bin\Debug\pics\p8.jpg
 C:\Users\Nathan\documents\visual studio 2015\Projects\DoomBot\DoomBot\bin\Debug\pics\pat.jpg
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\maxresdefault.jpg
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p2.png
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p3.jpg
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p4.gif
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p5.png
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p6.jpg
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p7.gif
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\p8.jpg
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\pics\pat.jpg
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\DoomBot.exe.config
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\DoomBot.exe.manifest
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\DoomBot.application
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\DoomBot.exe
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\DoomBot.pdb
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Discord.Net.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.exe.manifest
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.application
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.exe
+C:\Users\Administrator\Desktop\DiscordBot\DoomBot\obj\Debug\DoomBot.pdb
