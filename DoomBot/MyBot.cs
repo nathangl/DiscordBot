@@ -85,10 +85,23 @@ namespace DoomBot
                     await e.Channel.SendMessage("no, u");
                 });
 
+            commands.CreateCommand("boosted")
+                .Do(async (e) =>
+                {
+                    //await e.Channel.SendMessage("no, u");
+                    await e.Channel.SendTTSMessage("You are a boosted animal.");
+                });
+
+            commands.CreateCommand("burn")
+                .Do(async (e) =>
+                {
+                    await e.Channel.SendMessage("YEEEEOUCHHHHHHH");
+                });
+
             commands.CreateCommand("commands")
                 .Do(async (e) =>
                 {
-                    await e.Channel.SendMessage("!bum\n!rampage\n!pasta\n!airhorn");
+                    await e.Channel.SendMessage("!bum\n!rampage\n!pasta\n!airhorn\n!burn\n!boosted\n!doggo");
                 });
 
             commands.CreateCommand("pasta")
